@@ -1,8 +1,8 @@
 {
     "model": {
         "model_name": "resnet-50-pytorch",
-        "model": "/opt/intel/openvino/deployment_tools/open_model_zoo/tools/downloader/public/resnet-50-pytorch/FP32/resnet-50-pytorch.xml",
-        "weights": "/opt/intel/openvino/deployment_tools/open_model_zoo/tools/downloader/public/resnet-50-pytorch/FP32/resnet-50-pytorch.bin"
+        "model": "/opt/intel/openvino_2021/deployment_tools/open_model_zoo/tools/downloader/public/resnet-50-pytorch/FP32/resnet-50-pytorch.xml",
+        "weights": "/opt/intel/openvino_2021/deployment_tools/open_model_zoo/tools/downloader/public/resnet-50-pytorch/FP32/resnet-50-pytorch.bin"
     },
     "engine": {
         "config": "resnet-50-pytorch.yml"
